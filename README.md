@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tloszkov
 - 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning Html, css, and React.JS
+- 🌱 I’m currently learning Html, CSS, and React.JS
 - 💞️ I’m looking to collaborate on .... Just learning the Github too. :D
 -
 - 📫 How to reach me tloszkov@gmail.com

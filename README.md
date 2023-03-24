@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tloszkov
-- 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning Html, CSS, and React.JS
-- 💞️ I’m looking to collaborate on .... Just learning the Github too. :D
--
+- 👋 Hello, my name is @tloszkov!
+- 👀 I have a keen interest in frontend development
+- 🌱 I am currently learning Html, CSS, and React.JS
+- 💞️ Additionally, I am eager to collaborate with others on projects and expand my knowledge of Github
+
 - 📫 How to reach me kzsolt82@gmail.com
 
 <!---

@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Html, CSS, and React.JS
 - 💞️ I’m looking to collaborate on .... Just learning the Github too. :D
 -
-- 📫 How to reach me tloszkov@gmail.com
+- 📫 How to reach me kzsolt82@gmail.com
 
 <!---
 tloszkov/tloszkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

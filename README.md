@@ -1,6 +1,6 @@
 - 👋 Hello, my name is @tloszkov!
 - 👀 I have a keen interest in frontend development
-- 🌱 I am currently learning Html, CSS, and React.JS
+- 🌱 I am currently learning Html, CSS, JavaScript, React.JS, AWS, CI/CD, Docker, Kubernetes, Terraform
 - 💞️ Additionally, I am eager to collaborate with others on projects and expand my knowledge of Github
 
 - 📫 How to reach me kzsolt82@gmail.com

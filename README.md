@@ -1,5 +1,5 @@
 - 👋 Hello, my name is @tloszkov!
-- 👀 I have a keen interest in frontend development
+- 👀 I have a keen interest in frontend development and cloud engineering.
 - 🌱 I am currently learning Html, CSS, JavaScript, React.JS, AWS, CI/CD, Docker, Kubernetes, Terraform
 - 💞️ Additionally, I am eager to collaborate with others on projects and expand my knowledge of Github
 

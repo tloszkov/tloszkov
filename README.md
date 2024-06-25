@@ -3,7 +3,7 @@
 - 🌱 I am currently learning Html, CSS, JavaScript, React.JS, AWS, CI/CD, Docker, Kubernetes, Terraform
 - 💞️ Additionally, I am eager to collaborate with others on projects and expand my knowledge of Github
 
-- 📫 How to reach me kzsolt82@gmail.com
+- 📫 How to reach me tloszkov@gmail.com
 
 <!---
 tloszkov/tloszkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
